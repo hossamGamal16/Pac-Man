@@ -17,10 +17,12 @@ This repo for displaying our code of the project PacMan Game
    - create the Map02 of the Game
 
 <hr>
+
 # Note for Map03
 This Map has one problem if you start it from the main menu of the game, you can test it by run the file Map03
 
 
 <hr>
+
 # Note for the main game
 The full code for our Pacman game is in the `pacman branch`, and the code in the `master branch` was just a test code in the begining of work
